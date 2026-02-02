@@ -76,7 +76,7 @@ The dashboard helps stakeholders track performance, analyze profit margins, and 
 
 
 📊 Dashboard File
-👉 [Download Power BI Dashboard (.pbix)](Finance Dashboard.pbix)
+👉 [Financial Analysis Report.png](Finance Dashboard.pbix)
 
 
 ---
