@@ -76,7 +76,7 @@ The dashboard helps stakeholders track performance, analyze profit margins, and 
 
 
 📊 Dashboard File
-👉 [Financial Analysis Report.png](Finance Dashboard.pbix)
+👉 [Financial Analysis Dashboard.png]
 
 
 ---
@@ -84,7 +84,7 @@ The dashboard helps stakeholders track performance, analyze profit margins, and 
 📂 Repository Contents
 
 * `Financial Sample.xlsx` – Dataset used for analysis
-* `Finance Dashboard.pbix` – Power BI dashboard file
+* `Financial Analysis Dashboard.png` – Power BI dashboard file
 * `README.md` – Project documentation
 
 ---
