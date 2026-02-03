@@ -82,18 +82,8 @@ The dashboard helps stakeholders track performance, analyze profit margins, and 
 
 📂 Repository Contents
 
-* `Financial Sample.xlsx` – Dataset used for analysis
 * `Financial Analysis Dashboard.png` – Power BI dashboard file
 * `README.md` – Project documentation
-
----
-
-🚀 How to Use
-
-1. Download the `.pbix` file
-2. Open using **Power BI Desktop**
-3. Refresh data if required
-4. Explore interactive visuals and insights
 
 ---
 
