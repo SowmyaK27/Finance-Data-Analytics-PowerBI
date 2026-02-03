@@ -76,7 +76,10 @@ The dashboard helps stakeholders track performance, analyze profit margins, and 
 
 
 📊 Dashboard File
-👉 [Financial Analysis Dashboard.png]
+👉 ## 📊 Dashboard Preview
+
+![Finance Analytics Dashboard](Financial Analysis Dashboard.png)
+
 
 
 ---
