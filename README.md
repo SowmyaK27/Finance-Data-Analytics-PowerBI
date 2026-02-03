@@ -76,11 +76,7 @@ The dashboard helps stakeholders track performance, analyze profit margins, and 
 
 
 📊 Dashboard File
-👉 ## 📊 Dashboard Preview
-
-![Finance Analytics Dashboard](Financial Analysis Dashboard.png)
-
-
+![Finance Analytics Dashboard](https://raw.githubusercontent.com/SowmyaK27/Finance-Data-Analytics-PowerBI/main/Financial%20Analysis%20Dashboard.png)
 
 ---
 
